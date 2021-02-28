@@ -2,6 +2,8 @@
 // Created by MnLCz on 25/2/2021.
 //
 
+// Para la implementacion de los amigos de una persona se utilizo vectores dinamicos, por lo tanto este modulo de listas enlazadas no sera utilizado.
+
 #ifndef CONJUNTOPERSONAS_H_
 #define CONJUNTOPERSONAS_H_
 
